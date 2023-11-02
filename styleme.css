@@ -1,0 +1,36 @@
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 20px;
+  }
+  th, td {
+	border: 1px solid black;
+  }
+  .noBorder{
+	border:0px ;
+  }
+  table {
+	width: 100%;
+   
+	
+	border: 1px solid black;
+	border-radius: 10px;
+  }
+  .placeOrder
+  {
+	position: absolute;
+	left: 750px;
+	top: 400px;
+	
+  }
+  
+  .Validator
+  {
+	  border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 100px;  
+  }
+  
+  
